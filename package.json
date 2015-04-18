@@ -20,7 +20,7 @@
             "type": "MIT",
             "url": "http://github.com/c9/vfs-architect/raw/master/LICENSE"
         }
-    ]
+    ],
     "repository" : {
         "type" : "git",
         "url" : "http://github.com/c9/vfs-architect.git"
