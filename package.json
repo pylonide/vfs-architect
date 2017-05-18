@@ -1,7 +1,7 @@
 {
     "name": "vfs-architect",
     "description": "architect plugins for vfs",
-    "version": "0.0.3",
+    "version": "0.0.4",
 
     "author": "ajax.org B.V. <info@ajax.org>",
     "contributors": [
@@ -9,18 +9,13 @@
     ],
 
     "dependencies": {
-        "architect": "~0.1.4",
-        "vfs-local": "~0.3.4"
+        "architect": "~0.1.13",
+        "vfs-local": "~0.4.0"
     },
     "optionalDependencies": {
         "vfs": "git://github.com/c9/vfs.git#078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
     },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "http://github.com/c9/vfs-architect/raw/master/LICENSE"
-        }
-    ],
+    "license": "MIT",
     "repository" : {
         "type" : "git",
         "url" : "http://github.com/c9/vfs-architect.git"
