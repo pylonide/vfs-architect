@@ -1,23 +1,25 @@
 {
     "name": "vfs-architect",
     "description": "architect plugins for vfs",
-    "version": "0.0.4",
-
+    "version": "0.0.5",
     "author": "ajax.org B.V. <info@ajax.org>",
     "contributors": [
-        { "name": "Fabian Jakobs", "email": "fabian@c9.io" }
+        {
+            "name": "Fabian Jakobs",
+            "email": "fabian@c9.io"
+        },
+        "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
     ],
-
     "dependencies": {
         "architect": "~0.1.13",
-        "vfs-local": "~0.4.0"
+        "vfs-local": "https://github.com/exsilium/vfs-local/tarball/890b96c73747a677d3a46ce7f97ae3c78d9f0f5c"
     },
     "optionalDependencies": {
         "vfs": "git://github.com/c9/vfs.git#078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
     },
     "license": "MIT",
-    "repository" : {
-        "type" : "git",
-        "url" : "http://github.com/c9/vfs-architect.git"
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/exsilium/vfs-architect.git"
     }
 }
