@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/pylonide/vfs-architect.svg?branch=master)](https://travis-ci.org/pylonide/vfs-architect)
