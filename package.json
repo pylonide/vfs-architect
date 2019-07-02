@@ -1,7 +1,7 @@
 {
     "name": "vfs-architect",
-    "description": "architect plugins for vfs",
-    "version": "0.0.5",
+    "description": "Architect plugins for vfs",
+    "version": "0.0.6",
     "author": "ajax.org B.V. <info@ajax.org>",
     "contributors": [
         {
@@ -12,14 +12,14 @@
     ],
     "dependencies": {
         "architect": "~0.1.13",
-        "vfs-local": "https://github.com/exsilium/vfs-local/tarball/890b96c73747a677d3a46ce7f97ae3c78d9f0f5c"
+        "vfs-local": "https://github.com/pylonide/vfs-local/tarball/66d1fb254f5086f03170890905b28ea9709e45f1"
     },
     "optionalDependencies": {
-        "vfs": "git://github.com/c9/vfs.git#078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
+        "vfs": "https://github.com/pylonide/vfs/tarball/22c7944df86c838e590fbd39772dad233f7ddcb4"
     },
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "http://github.com/exsilium/vfs-architect.git"
+        "url": "http://github.com/pylonide/vfs-architect.git"
     }
 }
