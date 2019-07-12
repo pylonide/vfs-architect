@@ -15,7 +15,7 @@
         "vfs-local": "https://github.com/pylonide/vfs-local/tarball/b72cd6e74e923f72bf03ebab2c39329fd3304f45"
     },
     "optionalDependencies": {
-        "vfs": "https://github.com/pylonide/vfs/tarball/22c7944df86c838e590fbd39772dad233f7ddcb4"
+        "vfs": "https://github.com/pylonide/vfs/tarball/078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
     },
     "license": "MIT",
     "repository": {
