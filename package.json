@@ -1,25 +1,23 @@
 {
-    "name": "vfs-architect",
-    "description": "Architect plugins for vfs",
-    "version": "0.0.6",
-    "author": "ajax.org B.V. <info@ajax.org>",
-    "contributors": [
-        {
-            "name": "Fabian Jakobs",
-            "email": "fabian@c9.io"
-        },
-        "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
-    ],
-    "dependencies": {
-        "architect": "~0.1.13",
-        "vfs-local": "https://github.com/pylonide/vfs-local/tarball/b72cd6e74e923f72bf03ebab2c39329fd3304f45"
+  "name": "@pylonide/vfs-architect",
+  "description": "Architect plugins for vfs",
+  "version": "0.1.0",
+  "author": "ajax.org B.V. <info@ajax.org>",
+  "contributors": [
+    {
+      "name": "Fabian Jakobs",
+      "email": "fabian@c9.io"
     },
-    "optionalDependencies": {
-        "vfs": "https://github.com/pylonide/vfs/tarball/078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
-    },
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/pylonide/vfs-architect.git"
-    }
+    "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
+  ],
+  "dependencies": {
+    "architect": "~0.1.13",
+    "@pylonide/vfs-local": "~0.5.0",
+    "@pylonide/vfs-http-adapter": "~0.3.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pylonide/vfs-architect.git"
+  }
 }
