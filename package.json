@@ -15,6 +15,9 @@
     "@pylonide/vfs-local": "~0.6.2",
     "@pylonide/vfs-http-adapter": "~0.3.0"
   },
+  "scripts": {
+    "test": "echo No Tests to run"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
