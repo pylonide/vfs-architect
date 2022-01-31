@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "architect": "~0.1.13",
-    "@pylonide/vfs-local": "~0.7.0",
+    "@pylonide/vfs-local": "~0.8.0",
     "@pylonide/vfs-http-adapter": "~0.4.0"
   },
   "scripts": {
