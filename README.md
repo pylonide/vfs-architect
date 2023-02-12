@@ -1,1 +1,3 @@
-[![Build Status](https://travis-ci.org/pylonide/vfs-architect.svg?branch=master)](https://travis-ci.org/pylonide/vfs-architect)
+# VFS-Architect
+
+![Build Status](https://github.com/pylonide/vfs-architect/actions/workflows/nodejs.yml/badge.svg)
