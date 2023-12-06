@@ -1,9 +1,10 @@
 {
   "name": "@pylonide/vfs-architect",
   "description": "Architect plugins for vfs",
-  "version": "0.6.0",
-  "author": "ajax.org B.V. <info@ajax.org>",
+  "version": "0.7.0",
+  "author": "Sten Feldman <exile@chamber.ee>",
   "contributors": [
+    "ajax.org B.V. <info@ajax.org>",
     {
       "name": "Fabian Jakobs",
       "email": "fabian@c9.io"
@@ -24,6 +25,6 @@
     "url": "http://github.com/pylonide/vfs-architect.git"
   },
   "engines": {
-    "node": ">= 14.21.1"
+    "node": ">= 18.18.2"
   }
 }
