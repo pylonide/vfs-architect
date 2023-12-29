@@ -14,7 +14,7 @@
   "dependencies": {
     "architect": "~0.1.13",
     "@pylonide/vfs-local": "~0.10.0",
-    "@pylonide/vfs-http-adapter": "~0.5.0"
+    "@pylonide/vfs-http-adapter": "~0.6.0"
   },
   "scripts": {
     "test": "echo No Tests to run"
