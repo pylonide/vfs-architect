@@ -1,7 +1,7 @@
 {
   "name": "@pylonide/vfs-architect",
   "description": "Architect plugins for vfs",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "author": "Sten Feldman <exile@chamber.ee>",
   "contributors": [
     "ajax.org B.V. <info@ajax.org>",
@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "architect": "~0.1.13",
-    "@pylonide/vfs-local": "~0.12.0",
+    "@pylonide/vfs-local": "~0.13.0",
     "@pylonide/vfs-http-adapter": "~0.8.0"
   },
   "scripts": {
@@ -25,6 +25,6 @@
     "url": "http://github.com/pylonide/vfs-architect.git"
   },
   "engines": {
-    "node": ">= 20.19.0"
+    "node": ">= 22.22.2"
   }
 }
